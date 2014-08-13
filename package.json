@@ -4,7 +4,7 @@
     "description": "",
     "repository": {
         "type": "git",
-        "url": "https://github.com/remcovz/gitbook-helloworld"
+        "url": "https://github.com/remcovz/gitbook-helloworld.git"
     },
     "author": "Remco <remco@zuijlen.eu>",
     "dependencies": {
