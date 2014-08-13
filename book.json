@@ -1,5 +1,11 @@
 {
     "plugins": [
         "piwik"
-    ]
+    ],
+    "pluginsConfig": {
+        "piwik": {
+            "URL": "www.zuijlen.eu/piwik/",
+            "siteId": 8
+        }
+    }
 }
