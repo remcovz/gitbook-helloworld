@@ -1,3 +1,7 @@
 # Chapter 1
 
-This book won't be something serious to read, but for me to figure out how GitBook works.
+This GitBook is edited locally on disk with the GitBook-editor app.
+
+When a page is saved, the GitHub app detects this, after which you can commit the changes and push it to GitHub.
+
+GitHub calls a webhook which pushes the changes on the GitHub repo to GitBook.
